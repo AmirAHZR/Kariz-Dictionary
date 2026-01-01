@@ -22,11 +22,6 @@ while True:
                 if breaks != "Y":
                     break
 
-    
-
-                
-
-
         elif select == "2":
             while True:
 
